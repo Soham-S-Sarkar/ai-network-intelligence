@@ -1,7 +1,7 @@
 # AI Network Intelligence Tool
 
 **Built by Soham Sarkar — Senior PM at BT**  
-**Live Product:** [coming Sunday]  
+**Live Product:** 17 May 2026 
 **Built:** May 2026
 
 ---
